@@ -1,0 +1,20 @@
+.one{
+    width: 1440px;
+    height: 50px;
+    border: 3px solid red;
+    line-height: 50px;
+}
+
+.two{
+    width: 1440px;
+    height: 50px;
+    border: 3px dotted blue;
+    line-height: 50px;
+}
+
+.three{
+    width: 1440px;
+    height: 30px;
+    border: 3px double gray;
+    line-height: 30px;
+}
